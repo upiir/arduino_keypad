@@ -1,6 +1,9 @@
 # Keypad with Arduino and OLED display
 Keypad with Arduino and OLED display
 
+
+**YouTube video: https://youtu.be/eVH5z8sqCOc**
+
 Items from the video
 - 0.96" OLED Display Module https://temu.to/k/ei3lbsuam7s
 - 5pcs 1.3" High-Contrast OLED Display Modules https://temu.to/k/ev9xu0jv0gy
@@ -22,10 +25,8 @@ Related videos with Arduino UNO and 128x64 OLED screen:
 - Smaller & Faster Arduino - https://youtu.be/4GfPQoIRqW8
 - Save Image from OLED Display to PC - https://youtu.be/Ft2pRMVm44E
 
-**YouTube video: https://youtu.be/eVH5z8sqCOc**
+![THUMB_arduino_keypad3](https://github.com/user-attachments/assets/21b8642d-38e3-4bf8-883f-875b40bc57c1)
 
-
-![THUMB_arduino_keypad2](https://github.com/user-attachments/assets/aa82033a-4dca-400e-a431-87998d2feefa)
 
 
 Screenshots from the video:
