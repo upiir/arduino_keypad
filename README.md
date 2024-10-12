@@ -4,6 +4,8 @@ Keypad with Arduino and OLED display
 
 **YouTube video: https://youtu.be/eVH5z8sqCOc**
 
+**WOKWI simulation: https://wokwi.com/projects/411562325314128897**
+
 Items from the video
 - 0.96" OLED Display Module https://temu.to/k/ei3lbsuam7s
 - 5pcs 1.3" High-Contrast OLED Display Modules https://temu.to/k/ev9xu0jv0gy
